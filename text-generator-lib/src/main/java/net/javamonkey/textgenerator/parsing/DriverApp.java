@@ -2,8 +2,10 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.javamonkey.textgenerator;
+package net.javamonkey.textgenerator.parsing;
 
+import net.javamonkey.textgenerator.core.WordDataCountComparator;
+import net.javamonkey.textgenerator.core.WordData;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

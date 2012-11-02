@@ -2,8 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.javamonkey.textgenerator;
+package net.javamonkey.textgenerator.core;
 
+import net.javamonkey.textgenerator.core.WordData;
 import java.util.Comparator;
 
 /**
